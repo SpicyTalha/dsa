@@ -6,3 +6,4 @@
 # rating: again, hard, good, easy (same as LeetSRS) | errs: tags or - | note: 12 words max
 
 date | lc | kind | pattern | min | hint | subs | result | rating | errs | note
+2026-10-13 | 1929 | new | arrays-hashing | 35 | L0+syn | 1 | ac-late | hard | compile | redeclared param nums; forgot return ans
